@@ -1,2 +1,0 @@
-# kasirku
-aplikasi kasir sederhana
